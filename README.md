@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yen Chao</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-![Alt Text](https://github.com/yc62897441/yc62897441/Just Enjoy the Show.gif)
+![Alt Text](Just Enjoy the Show.gif)
 
 - 🔭 I’m currently working on [cat delivery](https://github.com/yc62897441/try_render.com_front)
 
