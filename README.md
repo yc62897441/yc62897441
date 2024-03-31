@@ -21,7 +21,7 @@ preview
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/yc62897441](https://www.linkedin.com/in/yen-chao-huang-40165b198)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yc62897441" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yen-chao-huang-40165b198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yc62897441" height="30" width="40" /></a>
 <a href="https://medium.com/@chao97263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chao97263" height="30" width="40" /></a>
 </p>
 
