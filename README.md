@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19578
-Fork on GitHub
-5876
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Yen Chao</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
