@@ -2,14 +2,14 @@
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
 ![alt text](https://github.com/yc62897441/yc62897441/blob/main/Just_Enjoy_the_Show.gif?raw=true)
-
-- 🔭 I’m currently working on [cat delivery](https://github.com/yc62897441/try_render.com_front)
+<hr />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yen-chao-huang-40165b198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yc62897441" height="30" width="40" /></a>
   <a href="https://medium.com/@chao97263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chao97263" height="30" width="40" /></a>
 </p>
+<hr />
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">FrontEnd</h4>
